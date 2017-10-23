@@ -2,7 +2,7 @@
 execution:
 - concurrency: 100
   hold-for: 10m
-  ramp-up: 120s
+  ramp-up: 90s
   scenario: Thread Group
 scenarios:
   Thread Group:
