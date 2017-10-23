@@ -2,4 +2,5 @@
 modules:
   blazemeter:
     test: Check-In Sanity Test
+    report-name: Check-In Build xxx
     project: Taurus Demo Tests
